@@ -1,19 +1,4 @@
 
-
-Skip to content
-Using Gmail with screen readers
-1 of 19,206
-(no subject)
-Inbox
-
-rushabh khope
-Attachments
-10:52 AM (0 minutes ago)
-to me
-
-
- One attachment
-  •  Scanned by Gmail
 # Migrating a React App from Create React App (CRA) to Vite
 
 This guide walks through every step required to migrate an existing React project from **Create React App (`react-scripts`)** to **Vite**. Follow the steps in order. Each step explains **what** to do, **why** it is needed, and **how** to verify it.
